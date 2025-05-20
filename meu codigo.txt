@@ -1,6 +1,2 @@
-Olá meu nome é Kaleb Gabriel Canabarro
-
-
-Olá eu sou uma nova linha 
-
+Bom dia, veio por meio deste, comunicar que estou aprendendo a utilizar o Git e o GitHub.
 
